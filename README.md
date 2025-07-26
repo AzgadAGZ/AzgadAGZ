@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Sr Staff Site Reliability Engineer | Cloud Native Architect
+### 🚀 Sr Staff Site Reliability Engineer | Sr Staff Engineer
 **Building resilient systems that scale from 🇲🇽 México**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azgadadriar-merced-iii-garcia-zuñiga809890a)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elposhox.dev)  [![Blog](https://img.shields.io/badge/Blog-Read--More-blue?style=for-the-badge&logo=pen&logoColor=white)](https://elposhox.dev)
@@ -15,7 +15,7 @@
 ## 🎯 What I Do
 
 ```yaml
-role: "Sr Staff Site Reliability Engineer"
+role: "Sr Staff Site Reliability Engineer / Sr Staff Engineer"
 mission: "Building self-healing, cost-optimized cloud infrastructure"
 current_focus: 
   - Architecting 99.99% uptime systems
